@@ -1,0 +1,122 @@
+{
+  "main": {
+    "name": "Kevin Obispo",
+    "occupation": "Full Stack Dev at TPG",
+    "description": "I eat, sleep and breathe React and Java",
+    "image": "profile_pic_png.png",
+    "bio": "Hi there! I am Kevin! I've been coding for almost 10 years now. As a Backend developer, I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in Full Stack Development and not just Backend. With this passion, I have now been able to be a part of growing business of TPG which is based in Sydney. I deliver REAL VALUE by providing teammates with endless support and clients with timely solutions.",
+    "contactmessage": "Get in touch with me!",
+    "email": "kevkarl.obispo@gmail.com",
+    "phone": "+63 9054935227",
+    "address": {
+      "street": "Vito Cruz",
+      "city": "Manila",
+      "state": "Philippines",
+      "zip": "1004"
+    },
+    "website": "https://www.kevinobispo.com/",
+    "resumedownload": "https://drive.google.com/file/d/1O9td41zaaL_BN2LK2jyf0w_4vVFSGo4f/view?usp=sharing",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UCfZXCY7qF-sYRC6J70vpUNA",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/kevkarl/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/kevin-obispo-0559449b/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/kevkarlobispo/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/kevinkarl25",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Technological University of the Philippines - PH",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "July 2012",
+        "description": "Graduated with First Class Honours"
+      }
+    ],
+    "work": [
+      {
+        "company": "TPG Telecom",
+        "title": "Sr. Full Stack Software Developer",
+        "years": "July 2021 - Present",
+        "description": "Responsible for developing TPG's Enterprise and Government Applications"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "Java",
+        "level": "100%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "75%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Instagram Clone (React JS)",
+        "category": "",
+        "image": "instagram.png",
+        "url": "https://kevin-insta.com/"
+      },
+      {
+        "title": "Gmail Clone (React JS)",
+        "category": "",
+        "image": "gmail.png",
+        "url": "https://kevin-78dfa.web.app/"
+      },
+      {
+        "title": "LinkedIn Clone (React JS)",
+        "category": "",
+        "image": "linkedin.png",
+        "url": "https://linkedin-react-aca3b.web.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Kevin is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+        "user": "Ryan Walter, Teradata"
+      },
+      {
+        "text": "Kevin is a fast learner, he learned Python and Flask literally from zero to hero.",
+        "user": "Nikhil Desai, Teradata"
+      }
+    ]
+  }
+}
