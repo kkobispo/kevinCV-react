@@ -2,7 +2,7 @@
   "main": {
     "name": "Kevin Obispo",
     "occupation": "Full Stack Dev at TPG",
-    "description": "I eat, sleep and breathe React and Java",
+    "description": "I like to make pretty things",
     "image": "profile_pic_png.png",
     "bio": "Hi there! I am Kevin! I've been coding for almost 10 years now. As a Backend developer, I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in Full Stack Development and not just Backend. With this passion, I have now been able to be a part of growing business of TPG which is based in Sydney. I deliver REAL VALUE by providing teammates with endless support and clients with timely solutions.",
     "contactmessage": "Get in touch with me!",
@@ -15,7 +15,7 @@
       "zip": "1004"
     },
     "website": "https://www.kevinobispo.com/",
-    "resumedownload": "https://drive.google.com/file/d/1O9td41zaaL_BN2LK2jyf0w_4vVFSGo4f/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/15_Nkg-dB4MyhNy2otVOrTGMAw-HNT15x/view?usp=sharing",
     "social": [
       {
         "name": "youtube",
@@ -64,8 +64,8 @@
     ],
     "skills": [
       {
-        "name": "ReactJs",
-        "level": "100%"
+        "name": "NextJS",
+        "level": "90%"
       },
       {
         "name": "Java",
@@ -76,7 +76,7 @@
         "level": "70%"
       },
       {
-        "name": "JavaScript",
+        "name": "TypeScript",
         "level": "75%"
       },
       {
@@ -104,6 +104,12 @@
         "category": "",
         "image": "linkedin.png",
         "url": "https://linkedin-react-aca3b.web.app/"
+      },
+      {
+        "title": "AirBnb Clone (React JS)",
+        "category": "",
+        "image": "airbnb.png",
+        "url": "https://airbnb-kevin-react.vercel.app/"
       }
     ]
   },
