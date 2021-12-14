@@ -88,25 +88,25 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Instagram Clone (React JS)",
+        "title": "Instagram-ish (React JS)",
         "category": "",
         "image": "instagram.png",
         "url": "https://kevin-insta.com/"
       },
       {
-        "title": "Gmail Clone (React JS)",
+        "title": "Gmail-ish (React JS)",
         "category": "",
         "image": "gmail.png",
         "url": "https://kevin-78dfa.web.app/"
       },
       {
-        "title": "LinkedIn Clone (React JS)",
+        "title": "LinkedIn-ish (React JS)",
         "category": "",
         "image": "linkedin.png",
         "url": "https://linkedin-react-aca3b.web.app/"
       },
       {
-        "title": "AirBnb Clone (React JS)",
+        "title": "AirBnb-ish (React JS)",
         "category": "",
         "image": "airbnb.png",
         "url": "https://airbnb-kevin-react.vercel.app/"
