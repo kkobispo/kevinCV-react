@@ -88,7 +88,7 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Instagram-ish (React JS)",
+        "title": "Instagram-ish (Next JS)",
         "category": "",
         "image": "instagram.png",
         "url": "https://kevin-insta.com/"
@@ -106,10 +106,16 @@
         "url": "https://linkedin-react-aca3b.web.app/"
       },
       {
-        "title": "AirBnb-ish (React JS)",
+        "title": "AirBnb-ish (Next JS)",
         "category": "",
         "image": "airbnb.png",
         "url": "https://airbnb-kevin-react.vercel.app/"
+      },
+      {
+        "title": "Amazon-ish (Next JS)",
+        "category": "",
+        "image": "amazon.png",
+        "url": "https://amazon-react-kevinkarl25.vercel.app/"
       }
     ]
   },
