@@ -112,16 +112,22 @@
         "url": "https://kevin-metaverse-chat.vercel.app/"
       },
       {
+        "title": "AirBnb-ish (Next JS)",
+        "category": "",
+        "image": "airbnb.png",
+        "url": "https://airbnb-kevin-react.vercel.app/"
+      },
+      {
         "title": "Amazon-ish (Next JS)",
         "category": "",
         "image": "amazon.png",
         "url": "https://amazon-react-kevinkarl25.vercel.app/"
       },
       {
-        "title": "AirBnb-ish (Next JS)",
+        "title": "Uber-ish (React Native)",
         "category": "",
-        "image": "airbnb.png",
-        "url": "https://airbnb-kevin-react.vercel.app/"
+        "image": "uberspo.PNG",
+        "url": "https://github.com/kevinkarl25/uber-react"
       }
     ]
   },
