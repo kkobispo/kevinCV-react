@@ -94,28 +94,34 @@
         "url": "https://kevin-insta.com/"
       },
       {
-        "title": "Gmail-ish (React JS)",
-        "category": "",
-        "image": "gmail.png",
-        "url": "https://kevin-78dfa.web.app/"
-      },
-      {
         "title": "LinkedIn-ish (React JS)",
         "category": "",
         "image": "linkedin.png",
         "url": "https://linkedin-react-aca3b.web.app/"
       },
       {
-        "title": "AirBnb-ish (Next JS)",
+        "title": "Gmail-ish (React JS)",
         "category": "",
-        "image": "airbnb.png",
-        "url": "https://airbnb-kevin-react.vercel.app/"
+        "image": "gmail.png",
+        "url": "https://kevin-78dfa.web.app/"
+      },
+      {
+        "title": "Metaverse-ish Web 3.0 Chat (Next JS)",
+        "category": "",
+        "image": "metaverse.png",
+        "url": "https://kevin-metaverse-chat.vercel.app/"
       },
       {
         "title": "Amazon-ish (Next JS)",
         "category": "",
         "image": "amazon.png",
         "url": "https://amazon-react-kevinkarl25.vercel.app/"
+      },
+      {
+        "title": "AirBnb-ish (Next JS)",
+        "category": "",
+        "image": "airbnb.png",
+        "url": "https://airbnb-kevin-react.vercel.app/"
       }
     ]
   },
