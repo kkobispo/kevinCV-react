@@ -118,16 +118,34 @@
         "url": "https://airbnb-kevin-react.vercel.app/"
       },
       {
-        "title": "Amazon-ish (Next JS)",
+        "title": "Blog-ish (Next JS + GraphCMS)",
         "category": "",
-        "image": "amazon.png",
-        "url": "https://amazon-react-kevinkarl25.vercel.app/"
+        "image": "blogtag.png",
+        "url": "https://blogtag-kevin.vercel.app/"
+      },
+      {
+        "title": "Real Estate Search (Next JS + Chakra)",
+        "category": "",
+        "image": "realtag.png",
+        "url": "https://realtag-next-kevinkarl25.vercel.app/"
       },
       {
         "title": "Uber-ish (React Native)",
         "category": "",
         "image": "uberspo.PNG",
         "url": "https://github.com/kevinkarl25/uber-react"
+      },
+      {
+        "title": "Pinterest-ish (React JS)",
+        "category": "",
+        "image": "pintag.png",
+        "url": "https://pintag-kevin.netlify.app/"
+      },
+      {
+        "title": "Amazon-ish (Next JS)",
+        "category": "",
+        "image": "amazon.png",
+        "url": "https://amazon-react-kevinkarl25.vercel.app/"
       }
     ]
   },
