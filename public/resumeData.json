@@ -94,10 +94,10 @@
         "url": "https://kevin-insta.com/"
       },
       {
-        "title": "LinkedIn-ish (React JS)",
+        "title": "LinkedIn-ish (Next JS)",
         "category": "",
         "image": "linkedin.png",
-        "url": "https://linkedin-react-aca3b.web.app/"
+        "url": "https://linkedin-kk.vercel.app/"
       },
       {
         "title": "Gmail-ish (React JS)",
